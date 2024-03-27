@@ -1,0 +1,7 @@
+.venv
+.pytest_cache
+__pycache__
+.python-version
+coverage.xml
+.coverage
+.scannerwork
